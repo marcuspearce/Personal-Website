@@ -38,14 +38,14 @@ function App() {
               </div>
               <div className="links-container">
                 <div className="links-group">
-                  <a className="link-text" href="https://www.linkedin.com/in/marcusrpearce/">linkedin</a>
-                  <a className="link-text" href="#">resume</a>
-                  <a className="link-text" href="https://github.com/marcuspearce">github</a>
+                  <a className="link-text" href="https://www.linkedin.com/in/marcusrpearce/" target="_blank">linkedin</a>
+                  <a className="link-text" href="https://drive.google.com/file/d/1FDWxdG899Z7PVG1dH9yVCRUBdGDNC535/view?usp=sharing" target="_blank">resume</a>
+                  <a className="link-text" href="https://github.com/marcuspearce" target="_blank">github</a>
                 </div>
               </div>
             </div>
           </Col>
-          
+
         </Row>
       </Container>
     </div>
